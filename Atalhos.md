@@ -22,17 +22,17 @@
 
 | Comando | Ação |
 |:---:|:---:|
-| Ctrl + P | “ir para arquivo” |
+| ctrl + P | “ir para arquivo” |
 | Alt + Shift + ⬇️ | duplicar linha |
-| Ctrl + N | abre janela de novo arquivo |
-| Ctrl + Windows + Alt + N | abre comando para cria novo arquivo |
-| Ctrl + K W | fechar todos os arquivos |
-| Ctrl + K U | fechar todos os arquivos salvos |
+| ctrl + N | abre janela de novo arquivo |
+| ctrl + windows + Alt + N | abre comando para cria novo arquivo |
+| ctrl + K W | fechar todos os arquivos |
+| ctrl + K U | fechar todos os arquivos salvos |
 | Shift + F5 | interromper execução |
 
 ### Android Studio
 
 | Comando | Ação |
 |:---:|:---:|
-| Ctrl + D | duplicar linha |
+| ctrl + D | duplicar linha |
 
